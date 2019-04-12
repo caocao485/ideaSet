@@ -1,0 +1,15 @@
+<application>
+  <component name="UmlConfiguration">
+    <option name="categories">
+      <map>
+        <entry id="JAVA" categories="Fields;Constructors;Methods;Properties;Inner Classes;Show Cyclic" />
+        <entry id="MAVEN" categories="Show Conflicts/Duplicates;Show Paths: Root -&gt; Selection;Show Neighbours of Selected Nodes;Borderless View" />
+        <entry id="MODULES" categories="Libraries;Test dependencies;Borderless View;Show Neighbours of Selected Nodes" />
+        <entry id="PHP" categories="Fields;Constants;Constructors;Methods" />
+        <entry id="Python" categories="Methods;Inner Classes;Fields" />
+        <entry id="RailsDependency" categories="System DB fields;Own fields" />
+        <entry id="Ruby" categories="Fields;Methods;Constants" />
+      </map>
+    </option>
+  </component>
+</application>
