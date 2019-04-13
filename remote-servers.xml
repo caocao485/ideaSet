@@ -3,5 +3,8 @@
     <remote-server name="Google App Engine" type="google-app-engine">
       <configuration />
     </remote-server>
+    <remote-server name="Heroku" type="heroku">
+      <configuration email="cao_cao485@qq.com" />
+    </remote-server>
   </component>
 </application>
