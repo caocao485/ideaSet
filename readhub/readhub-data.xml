@@ -1433,6 +1433,15 @@
               <RHBaseItem>
                 <option name="id" value="4926010" />
               </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="4926307" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="4926278" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="4926266" />
+              </RHBaseItem>
             </list>
           </value>
         </entry>
@@ -3234,6 +3243,26 @@
               <RHBaseItem>
                 <option name="category" value="BLOCKCHAIN" />
                 <option name="id" value="4925305" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="4926305" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="4926297" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="4926283" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="4926282" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="4926272" />
               </RHBaseItem>
             </list>
           </value>
