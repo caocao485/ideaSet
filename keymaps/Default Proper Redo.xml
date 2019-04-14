@@ -8,4 +8,7 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift back_slash" />
+  </action>
 </keymap>
