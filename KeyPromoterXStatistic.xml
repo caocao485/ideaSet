@@ -209,6 +209,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Service">
+        <Item>
+          <IdeaActionID>Toolkit.GotoService</IdeaActionID>
+          <ShortCut>'Ctrl+\' or 'Ctrl+Alt+N'</ShortCut>
+          <Description>Service</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
@@ -279,6 +287,14 @@
           <ShortCut>'Alt+7'</ShortCut>
           <Description>Structure</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Symbol...">
+        <Item>
+          <IdeaActionID>GotoSymbol</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+N'</ShortCut>
+          <Description>Symbol...</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
