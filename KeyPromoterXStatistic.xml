@@ -222,7 +222,7 @@
           <IdeaActionID>Toolkit.GotoService</IdeaActionID>
           <ShortCut>'Ctrl+\' or 'Ctrl+Alt+N'</ShortCut>
           <Description>Service</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
