@@ -7,6 +7,11 @@
             <list>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="id" value="7No0uH6cvfK" />
+                <option name="order" value="146226" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TOPIC" />
                 <option name="id" value="7Noa1Jj4NG2" />
                 <option name="order" value="146215" />
               </RHBaseItem>
@@ -94,6 +99,11 @@
                 <option name="category" value="TOPIC" />
                 <option name="id" value="7Nn7aXxusMB" />
                 <option name="order" value="146099" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TOPIC" />
+                <option name="id" value="7Nn9UaSBwkZ" />
+                <option name="order" value="146097" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
@@ -6533,6 +6543,10 @@
               <RHBaseItem>
                 <option name="category" value="BLOCKCHAIN" />
                 <option name="id" value="5584430" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="5585837" />
               </RHBaseItem>
             </list>
           </value>
