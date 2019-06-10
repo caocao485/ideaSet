@@ -97,12 +97,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Force Step Into">
         <Item>
           <IdeaActionID>ForceStepInto</IdeaActionID>
           <ShortCut>'Alt+Shift+F7'</ShortCut>
           <Description>Force Step Into</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="GoTo">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>GoTo</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -262,7 +278,7 @@
           <IdeaActionID>Toolkit.GotoService</IdeaActionID>
           <ShortCut>'Ctrl+\' or 'Ctrl+Alt+N'</ShortCut>
           <Description>Service</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -350,7 +366,7 @@
           <IdeaActionID>GotoSymbol</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+N'</ShortCut>
           <Description>Symbol...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
