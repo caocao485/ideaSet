@@ -7,6 +7,11 @@
             <list>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="id" value="7NDjL9aXH5T" />
+                <option name="order" value="149413" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TOPIC" />
                 <option name="id" value="7NDHWhqLb4Q" />
                 <option name="order" value="149410" />
               </RHBaseItem>
@@ -6873,6 +6878,10 @@
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="5788790" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="5791847" />
               </RHBaseItem>
             </list>
           </value>
