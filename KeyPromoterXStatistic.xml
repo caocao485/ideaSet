@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>GoTo</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -398,7 +398,7 @@
           <IdeaActionID>GotoSymbol</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+N'</ShortCut>
           <Description>Symbol...</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
