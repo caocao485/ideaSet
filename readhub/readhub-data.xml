@@ -7,6 +7,11 @@
             <list>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="id" value="7TYO3ARTGUQ" />
+                <option name="order" value="218816" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TOPIC" />
                 <option name="id" value="7TXfJiGvXaQ" />
                 <option name="order" value="218807" />
               </RHBaseItem>
@@ -14,6 +19,11 @@
                 <option name="category" value="TOPIC" />
                 <option name="id" value="7TYSUvX8jIl" />
                 <option name="order" value="218804" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TOPIC" />
+                <option name="id" value="7TYVv8AyBEI" />
+                <option name="order" value="218801" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
@@ -12790,6 +12800,48 @@
               <RHBaseItem>
                 <option name="id" value="8589580" />
               </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8590082" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589861" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589847" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589850" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589880" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589821" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589779" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589667" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589687" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589858" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589721" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589755" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589895" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="8589693" />
+              </RHBaseItem>
             </list>
           </value>
         </entry>
@@ -19469,6 +19521,46 @@
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="8589536" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="8590123" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="8589828" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="8589834" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="8589784" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="8589785" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="8589673" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="8589657" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="8589663" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="8589831" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="8589836" />
               </RHBaseItem>
             </list>
           </value>
@@ -26967,6 +27059,18 @@
               <RHBaseItem>
                 <option name="category" value="BLOCKCHAIN" />
                 <option name="id" value="8589520" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="8589823" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="8589681" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="8589678" />
               </RHBaseItem>
             </list>
           </value>
