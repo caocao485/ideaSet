@@ -12,11 +12,13 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="7U2upPgBPy5" />
                 <option name="order" value="219784" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="7U24RblSpB2" />
                 <option name="order" value="219782" />
               </RHBaseItem>
@@ -82,16 +84,19 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="7U3p51b9X94" />
                 <option name="order" value="219716" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="7U3ps9HBmgg" />
                 <option name="order" value="219714" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="7U3eESYDZeH" />
                 <option name="order" value="219707" />
               </RHBaseItem>
@@ -102,6 +107,7 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="7U3gn82mRCT" />
                 <option name="order" value="219694" />
               </RHBaseItem>
