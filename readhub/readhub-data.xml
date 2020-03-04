@@ -20234,18 +20234,22 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
+                <option name="finished" value="true" />
                 <option name="id" value="8835060" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
+                <option name="finished" value="true" />
                 <option name="id" value="8834928" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
+                <option name="finished" value="true" />
                 <option name="id" value="8834929" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
+                <option name="finished" value="true" />
                 <option name="id" value="8834555" />
               </RHBaseItem>
               <RHBaseItem>
@@ -20274,6 +20278,7 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
+                <option name="finished" value="true" />
                 <option name="id" value="8833584" />
               </RHBaseItem>
               <RHBaseItem>
