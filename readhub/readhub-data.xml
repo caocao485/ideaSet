@@ -7,6 +7,11 @@
             <list>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="id" value="7Vnb8Bw61Cn" />
+                <option name="order" value="237342" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TOPIC" />
                 <option name="id" value="7VoEvPeJUbS" />
                 <option name="order" value="237338" />
               </RHBaseItem>
@@ -13534,6 +13539,9 @@
               <RHBaseItem>
                 <option name="id" value="9333183" />
               </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="9333438" />
+              </RHBaseItem>
             </list>
           </value>
         </entry>
@@ -20694,6 +20702,30 @@
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="9333424" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="9333437" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="9333441" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="9333449" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="9333443" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="9333444" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="9333447" />
               </RHBaseItem>
             </list>
           </value>
