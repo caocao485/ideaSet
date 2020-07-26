@@ -11,6 +11,15 @@
       <rowLimit enabled="true" value="1000" />
       <resizeColumns toHeader="true" toContent="true" />
     </results>
-    <tables />
+    <tables>
+      <table id="connectionProperties">
+        <property id="value.width" value="242" />
+        <property id="property.width" value="243" />
+      </table>
+      <table id="customConnectionProperties">
+        <property id="value.width" value="247" />
+        <property id="key.width" value="248" />
+      </table>
+    </tables>
   </component>
 </application>
