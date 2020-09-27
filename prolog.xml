@@ -1,5 +1,6 @@
 <application>
   <component name="PrologStatePersistence">
     <option name="toolchain" value="C:\swipl\bin" />
+    <option name="stdLibrary" value="C:\swipl\library" />
   </component>
 </application>
