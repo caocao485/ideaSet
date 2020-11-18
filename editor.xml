@@ -17,6 +17,9 @@
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="CUSTOM_SOFT_WRAP_INDENT" value="2" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_FUNCTION_BODY" value="true" />
     <option name="COLLAPSE_METHOD_BODY" value="true" />
