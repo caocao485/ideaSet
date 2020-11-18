@@ -3,7 +3,7 @@
     <property name="created">2020-11-18T23:23:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-19T00:00:50</property>
+    <property name="modified">2020-11-18T23:51:38</property>
     <property name="originalScheme">One Dark Italic</property>
   </metaInfo>
   <colors>
@@ -974,9 +974,6 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
-    <option name="HTML_CODE">
-      <value />
-    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1213,8 +1210,13 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL">
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1454,8 +1456,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="BACKGROUND" value="515a6b" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">

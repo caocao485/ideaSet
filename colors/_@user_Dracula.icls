@@ -3,7 +3,7 @@
     <property name="created">2020-11-18T23:49:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-19T00:00:50</property>
+    <property name="modified">2020-11-18T23:51:38</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <colors>
@@ -814,9 +814,6 @@
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
-    <option name="HTML_CODE">
-      <value />
-    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
@@ -1005,7 +1002,9 @@
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="6272a4" />
+      </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1080,7 +1079,6 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3b514d" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_TAG_NAME">
