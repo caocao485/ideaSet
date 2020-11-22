@@ -3,7 +3,7 @@
     <property name="created">2020-09-26T20:50:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.5.0.0</property>
-    <property name="modified">2020-11-22T16:30:20</property>
+    <property name="modified">2020-11-22T17:41:30</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -428,7 +428,7 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="Clojure Atom">
       <value>
         <option name="FOREGROUND" value="c678dd" />
@@ -863,7 +863,7 @@
     <option name="GQL_ID">
       <value />
     </option>
-    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
+    <option name="Groovy method declaration" baseAttributes="" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -925,7 +925,7 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="HTML_TAG" baseAttributes="" />
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1065,9 +1065,9 @@
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="" />
     <option name="JS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
@@ -1529,7 +1529,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="56b6c2" />
@@ -1888,7 +1888,7 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_COMMENT" baseAttributes="" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -1998,7 +1998,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -2110,7 +2110,7 @@
         <option name="BACKGROUND" value="282c34" />
       </value>
     </option>
-    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="XML_TAG" baseAttributes="" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e06c75" />
