@@ -3,7 +3,7 @@
     <property name="created">2020-09-26T20:50:49</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.5.0.0</property>
-    <property name="modified">2020-12-09T22:16:38</property>
+    <property name="modified">2020-12-09T22:39:53</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -217,11 +217,6 @@
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="59626f" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
