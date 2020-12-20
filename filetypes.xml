@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="red" type="AUTO_DETECTED" />
       <mapping pattern="sieve" type="AUTO_DETECTED" />
-      <mapping pattern="old-call-by-name-sieve-with-Y" type="AUTO_DETECTED" />
       <mapping pattern="bigfib" type="AUTO_DETECTED" />
+      <mapping pattern="old-call-by-name-sieve-with-Y" type="AUTO_DETECTED" />
       <mapping ext="cmd" type="Batch" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
