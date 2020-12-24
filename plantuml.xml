@@ -1,5 +1,5 @@
 <application>
-  <component name="PlantUmlSettings">
+  <component name="PlantUmlSettingsNew">
     <option name="PLANTUML_LIMIT_SIZE" value="" />
     <option name="cacheSize" value="50" />
     <option name="dotExecutable" value="C:\Program Files (x86)\Graphviz2.38\bin" />
