@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/ReactiveX/RxJava.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zxh0/jvmgo-book.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Think\IdeaProjects" />
