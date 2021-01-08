@@ -3,7 +3,7 @@
     <property name="created">2020-11-18T23:23:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-01-06T09:59:07</property>
+    <property name="modified">2021-01-08T09:49:01</property>
     <property name="originalScheme">One Dark Vivid</property>
   </metaInfo>
   <colors>
@@ -408,7 +408,7 @@
         <option name="FOREGROUND" value="2bbac5" />
       </value>
     </option>
-    <option name="Class" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="Clojure Atom">
       <value>
         <option name="FOREGROUND" value="d55fde" />
@@ -827,7 +827,7 @@
         <option name="FOREGROUND" value="e5c07b" />
       </value>
     </option>
-    <option name="GO_BUILTIN_VARIABLE" baseAttributes="" />
+    <option name="GO_BUILTIN_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="GO_EXPORTED_FUNCTION">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -868,7 +868,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="GO_PACKAGE" baseAttributes="" />
+    <option name="GO_PACKAGE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="GO_TYPE_REFERENCE">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
@@ -877,7 +877,7 @@
     <option name="GQL_ID">
       <value />
     </option>
-    <option name="Groovy method declaration" baseAttributes="" />
+    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -2039,7 +2039,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="d19a66" />
