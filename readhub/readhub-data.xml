@@ -22,21 +22,25 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="84EAIwzZrRo" />
                 <option name="order" value="337438" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="84EgPd2kK2t" />
                 <option name="order" value="337435" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="84DNCTxXlNd" />
                 <option name="order" value="337431" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="84Ewa2mVh99" />
                 <option name="order" value="337421" />
               </RHBaseItem>
@@ -67,6 +71,7 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="84DcfUGr2Ph" />
                 <option name="order" value="337409" />
               </RHBaseItem>
@@ -77,6 +82,7 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="84DSszTOSyP" />
                 <option name="order" value="337401" />
               </RHBaseItem>
@@ -107,16 +113,19 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="84DUNeGzpXw" />
                 <option name="order" value="337382" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="84DRizodvLF" />
                 <option name="order" value="337379" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="84DKPQZikDN" />
                 <option name="order" value="337371" />
               </RHBaseItem>
