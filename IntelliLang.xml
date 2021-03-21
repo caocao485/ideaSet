@@ -14,6 +14,19 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "java.lang.String[]").definedInClass("java.sql.Connection"))]]></place>
     </injection>
     <injection language="MySQL" injector-id="java">
+      <display-name>JdbcTemplate (org.springframework.jdbc.core)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("batchUpdate").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForInt").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForList").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForLong").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForMap").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForRowSet").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").definedInClass("org.springframework.jdbc.core.JdbcOperations"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
       <display-name>Statement (java.sql)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("addBatch").withParameters("java.lang.String").definedInClass("java.sql.Statement"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String").definedInClass("java.sql.Statement"))]]></place>
