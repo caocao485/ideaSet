@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File 'C:\Users\Think\.gradle\caches\modules-2\files-2.1\javax.servlet\javax.servlet-api\3.1.0\ab3976d4574c48d22dc1abf6a9e8bd0fdf928223\javax.servlet-api-3.1.0-sources.jar!\javax\servlet\ServletContext.java [Gradle: javax.servlet:javax.servlet-api:3.1.0]'" />
+    <option name="defaultScopeName" value="File 'C:\Users\Think\.gradle\caches\modules-2\files-2.1\javax.servlet\javax.servlet-api\3.1.0\ab3976d4574c48d22dc1abf6a9e8bd0fdf928223\javax.servlet-api-3.1.0-sources.jar!\javax\servlet\ServletContext.java [Gradle: javax.servlet:javax.servlet-api:3.1.0]'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Users\Think\.gradle\caches\modules-2\files-2.1\javax.servlet\javax.servlet-api\3.1.0\ab3976d4574c48d22dc1abf6a9e8bd0fdf928223\javax.servlet-api-3.1.0-sources.jar!\javax\servlet\ServletContext.java [Gradle: javax.servlet:javax.servlet-api:3.1.0]'" />
   </component>
 </application>
