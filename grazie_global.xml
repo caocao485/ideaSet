@@ -6,13 +6,6 @@
         <option value="Chinese" />
       </set>
     </option>
-    <option name="enabledGrammarStrategies">
-      <set>
-        <option value="nl.rubensten.texifyidea:Latex" />
-        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
-        <option value="tanvd.grazi:JAVA" />
-      </set>
-    </option>
     <option name="enabledCommitIntegration" value="true" />
   </component>
 </application>
