@@ -3,7 +3,7 @@
     <property name="created">2020-11-18T23:23:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-04-29T09:22:56</property>
+    <property name="modified">2021-04-29T16:42:34</property>
     <property name="originalScheme">One Dark Vivid</property>
   </metaInfo>
   <colors>
@@ -2001,8 +2001,8 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="" />
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="" />
+    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
+    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d19a66" />
