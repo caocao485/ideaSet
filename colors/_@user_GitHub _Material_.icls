@@ -4,7 +4,7 @@
     <property name="created">2020-11-18T23:49:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-05-04T13:38:56</property>
+    <property name="modified">2021-05-05T09:04:12</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2726,7 +2726,7 @@
     <option name="XSLT_DIRECTIVE">
       <value />
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="YAML_ANCHOR" baseAttributes="" />
     <option name="com.plan9.INSTRUCTION" baseAttributes="" />
     <option name="com.plan9.LABEL" baseAttributes="" />
     <option name="org.rust.LIFETIME">
