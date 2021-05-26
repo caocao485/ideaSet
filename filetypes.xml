@@ -4,8 +4,8 @@
       <mapping pattern="red" type="AUTO_DETECTED" />
       <mapping pattern="zipd" type="AUTO_DETECTED" />
       <mapping pattern="sieve" type="AUTO_DETECTED" />
-      <mapping pattern="bigfib" type="AUTO_DETECTED" />
       <mapping pattern="old-call-by-name-sieve-with-Y" type="AUTO_DETECTED" />
+      <mapping pattern="bigfib" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
