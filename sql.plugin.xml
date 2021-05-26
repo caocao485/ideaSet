@@ -13,12 +13,12 @@
     </results>
     <tables>
       <table id="connectionProperties">
-        <property id="value.width" value="242" />
-        <property id="property.width" value="243" />
+        <property id="value.width" value="298" />
+        <property id="property.width" value="299" />
       </table>
       <table id="customConnectionProperties">
-        <property id="value.width" value="247" />
-        <property id="key.width" value="248" />
+        <property id="value.width" value="305" />
+        <property id="key.width" value="305" />
       </table>
     </tables>
   </component>
