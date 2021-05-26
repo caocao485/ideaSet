@@ -282,6 +282,11 @@
                       <FeaturePluginData displayName="Jetty Server" pluginName="Jetty" pluginId="Jetty" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="JsTestDriver-test-runner">
+                    <value>
+                      <FeaturePluginData displayName="JsTestDriver" pluginName="JSTestDriver Plugin" pluginId="JSTestDriver Plugin" />
+                    </value>
+                  </entry>
                   <entry key="KotlinJavaScriptTestRunnerProtractor">
                     <value>
                       <FeaturePluginData displayName="Protractor (Kotlin)" pluginName="org.jetbrains.kotlin" pluginId="org.jetbrains.kotlin" bundled="true" />
