@@ -4,7 +4,7 @@
     <property name="created">2020-11-18T23:49:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-06-03T09:37:14</property>
+    <property name="modified">2021-06-03T23:07:02</property>
     <property name="originalScheme">Visual Studio Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -492,7 +492,7 @@
         <option name="BACKGROUND" value="78140a" />
       </value>
     </option>
-    <option name="VELOCITY_KEYWORD" baseAttributes="" />
+    <option name="VELOCITY_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ffb700" />
@@ -512,6 +512,6 @@
         <option name="ERROR_STRIPE_COLOR" value="ff0000" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
   </attributes>
 </scheme>
