@@ -71,5 +71,13 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="we" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+      </properties>
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
