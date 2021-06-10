@@ -150,6 +150,7 @@
     </Renderer>
     <Renderer ID="ClassRenderer">
       <option name="SHOW_FQ_TYPE_NAMES" value="true" />
+      <option name="SHOW_DECLARED_TYPE" value="true" />
     </Renderer>
   </component>
   <component name="ThreadsViewSettings">

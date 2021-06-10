@@ -1,0 +1,7 @@
+<application>
+  <component name="com.jetbrains.test.ide.datagen.settings.TestDataGeneratorSettingsState">
+    <option name="customGenerators">
+      <list />
+    </option>
+  </component>
+</application>
