@@ -3,7 +3,7 @@
     <property name="created">2021-06-12T13:49:25</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-06-12T17:19:31</property>
+    <property name="modified">2021-06-13T10:18:41</property>
     <property name="originalScheme">Gruvbox Light Hard</property>
   </metaInfo>
   <colors>
@@ -1038,7 +1038,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="76678" />
