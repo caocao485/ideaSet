@@ -3,7 +3,7 @@
     <property name="created">2021-06-12T13:49:25</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-06-19T22:02:25</property>
+    <property name="modified">2021-06-19T22:06:27</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
   <colors>
@@ -675,7 +675,7 @@
         <option name="FOREGROUND" value="fabd2f" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
+    <option name="List/map to object conversion" baseAttributes="" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff8647" />
@@ -1017,7 +1017,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="Unresolved reference access" baseAttributes="" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="fabd2f" />
