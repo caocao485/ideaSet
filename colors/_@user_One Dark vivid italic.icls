@@ -3,7 +3,7 @@
     <property name="created">2020-11-18T23:23:58</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-06-20T14:03:50</property>
+    <property name="modified">2021-06-20T14:08:13</property>
     <property name="originalScheme">One Dark Vivid Italic</property>
   </metaInfo>
   <colors>
@@ -1954,13 +1954,13 @@
         <option name="FOREGROUND" value="2bbac5" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="SASS_VARIABLE" baseAttributes="" />
+    <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="42557b" />

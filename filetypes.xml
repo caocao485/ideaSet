@@ -4,15 +4,14 @@
       <mapping pattern="red" type="AUTO_DETECTED" />
       <mapping pattern="zipd" type="AUTO_DETECTED" />
       <mapping pattern="sieve" type="AUTO_DETECTED" />
-      <mapping pattern="bigfib" type="AUTO_DETECTED" />
       <mapping pattern="old-call-by-name-sieve-with-Y" type="AUTO_DETECTED" />
+      <mapping pattern="bigfib" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="good-newline" type="PLAIN_TEXT" />
-      <mapping ext="yaml" type="PLAIN_TEXT" />
-      <mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yml" type="YAML_EX" />
+      <removed_mapping ext="yml" type="YAML" />
+      <mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="Batch" />
@@ -31,7 +30,6 @@
       <removed_mapping ext="tsv" approved="true" type="TSV" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
-      <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
