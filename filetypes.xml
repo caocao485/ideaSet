@@ -4,9 +4,8 @@
       <mapping pattern="red" type="AUTO_DETECTED" />
       <mapping pattern="zipd" type="AUTO_DETECTED" />
       <mapping pattern="sieve" type="AUTO_DETECTED" />
-      <mapping pattern="bigfib" type="AUTO_DETECTED" />
       <mapping pattern="old-call-by-name-sieve-with-Y" type="AUTO_DETECTED" />
-      <removed_mapping ext="graphqlconfig" type="JSON" />
+      <mapping pattern="bigfib" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -18,6 +17,7 @@
       <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="env" approved="true" type="Env File" />
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="Log" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
