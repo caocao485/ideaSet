@@ -3,7 +3,7 @@
     <property name="created">2020-11-18T23:49:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-08-05T09:40:58</property>
+    <property name="modified">2021-08-06T09:57:21</property>
     <property name="originalScheme">Solarized Dark (4lex4)</property>
   </metaInfo>
   <colors>
@@ -269,7 +269,6 @@
         <option name="FOREGROUND" value="519af2" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="" />
     <option name="COFFEESCRIPT.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="839496" />
