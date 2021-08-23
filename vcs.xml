@@ -26,6 +26,10 @@
           <option name="url" value="http://git.gomezsz.com.cn" />
           <option name="userName" value="caojinsheng-zf@bjebc.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.gomezsz.com.cn/gmgt-mgt/gmgt-mgt-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Think\IdeaProjects" />
