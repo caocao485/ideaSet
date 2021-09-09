@@ -6,9 +6,11 @@
       <mapping pattern="bigfib" type="AUTO_DETECTED" />
       <mapping pattern="zipd" type="AUTO_DETECTED" />
       <mapping pattern="old-call-by-name-sieve-with-Y" type="AUTO_DETECTED" />
+      <mapping ext="config" type="Erlang Terms" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="config" type="LOMBOK_CONFIG" />
       <mapping pattern="good-newline" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
