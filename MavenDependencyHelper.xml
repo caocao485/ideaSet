@@ -1,5 +1,5 @@
 <application>
   <component name="MavenDependencyHelper">
-    <option name="speedDetectInterval" value="1200" />
+    <option name="speedDetectInterval" value="3000" />
   </component>
 </application>
