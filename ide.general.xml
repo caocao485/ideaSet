@@ -11,8 +11,8 @@
     <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
     <entry key="go.run.processes.with.pty" value="false" />
     <entry key="eslint.additional.file.extensions" value="svelte" />
-    <entry key="ide.tree.collapse.recursively" value="false" />
     <entry key="performance.watcher.sampling.interval.ms" value="5000" />
+    <entry key="ide.tree.collapse.recursively" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
