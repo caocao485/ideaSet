@@ -4,7 +4,7 @@
     <property name="created">2020-11-18T23:49:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-10-24T20:09:21</property>
+    <property name="modified">2021-10-25T10:07:57</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -927,7 +927,7 @@
         <option name="FOREGROUND" value="5cc5" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.PARAMETER" baseAttributes="" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="32f62" />
@@ -2538,7 +2538,7 @@
     <option name="SPEL.BACKGROUND">
       <value />
     </option>
-    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
+    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="d73a49" />
@@ -2712,7 +2712,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="22863a" />
