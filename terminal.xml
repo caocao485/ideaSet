@@ -1,6 +1,0 @@
-<application>
-  <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="F:\little\java11\bin\jshell.exe" />
-    <option name="myTabName" value="cmder" />
-  </component>
-</application>
