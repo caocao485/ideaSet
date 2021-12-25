@@ -1,6 +1,12 @@
 <application>
   <component name="GitToolBoxAppSettings2">
     <option name="autoFetchIntervalMinutes" value="30" />
+    <option name="outdatedBranchesAutoCleanup">
+      <OutdatedBranchesAutoCleanupConfig>
+        <option name="autoCheckEnabled" value="true" />
+        <option name="autoCheckIntervalHours" value="72" />
+      </OutdatedBranchesAutoCleanupConfig>
+    </option>
     <option name="previousVersionMigrated" value="true" />
     <option name="version" value="5" />
   </component>
