@@ -208,6 +208,7 @@
     <injection language="SQL" injector-id="java">
       <display-name>SmallRye Mutiny SqlConnection (io.vertx.mutiny.sqlclient)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepare", "prepareAndAwait").definedInClass("io.vertx.mutiny.db2client.DB2Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepare", "prepareAndAwait").definedInClass("io.vertx.mutiny.mssqlclient.MSSQLConnection"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepare", "prepareAndAwait").definedInClass("io.vertx.mutiny.mysqlclient.MySQLConnection"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepare", "prepareAndAwait").definedInClass("io.vertx.mutiny.pgclient.PgConnection"))]]></place>
     </injection>
