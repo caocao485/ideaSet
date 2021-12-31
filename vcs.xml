@@ -42,6 +42,10 @@
           <option name="url" value="https://gitee.com/JavaLionLi/RuoYi-Vue-Plus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/turms-im/turms.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\learning" />
