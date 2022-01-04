@@ -66,6 +66,14 @@
           <option name="url" value="https://gitee.com/caocao485_admin/jOOQ-mcve" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/tiger1103/gfast.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/flipped-aurora/gin-vue-admin" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\learning" />
