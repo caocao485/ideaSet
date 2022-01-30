@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="118.89.30.144" id="11fcddef-5edc-452f-b103-2ef880c89275" keyPath="F:\important\vultr\id_rsa" port="12000" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</application>

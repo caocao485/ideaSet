@@ -1,0 +1,6 @@
+<application>
+  <component name="JUnitGeneratorAppSettings">
+    <option name="listOverloadedMethodsBy" value="paramClass" />
+    <option name="selectedTemplateKey" value="JUnit 4" />
+  </component>
+</application>

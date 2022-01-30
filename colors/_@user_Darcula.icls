@@ -4,17 +4,17 @@
     <property name="created">2019-04-13T18:58:25</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-30T10:12:36</property>
+    <property name="modified">2021-11-24T13:38:31</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Microsoft YaHei" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -40,7 +40,6 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6f8b94" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6f8b94" />
     <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
     <option name="FILESTATUS_SWITCHED" value="8978f" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -49,6 +48,31 @@
   <attributes>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="3a3a2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="313a31" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="3a313a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2e3939" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="452828" />
+      </value>
     </option>
     <option name="KOTLIN_LABEL">
       <value />

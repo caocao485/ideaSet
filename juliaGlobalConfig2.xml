@@ -1,0 +1,8 @@
+<application>
+  <component name="JuliaGlobalSettings2">
+    <option name="allJuliaExePath" value="F:\little\Julia 1.5.2\bin\julia.exe" />
+    <option name="intellijThemeCssText" value="code{&#10;    color: #B03776&#10;}" />
+    <option name="markdownCssText" value="code{&#10;    color: #FF79C6&#10;}" />
+    <option name="packagesInfo" value="server  " />
+  </component>
+</application>

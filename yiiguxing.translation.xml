@@ -1,11 +1,31 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="web" />
+      <item value="feign" />
+      <item value="u 4 eac" />
+      <item value="{ &quot;ret&quot;: 200, &quot;data&quot;: { &quot;code&quot;: 1, &quot;desc&quot;: &quot;\u5b9e\u53f7&quot;, &quot;number&quot;: &quot;17611187809&quot;, &quot;extend&quot;: { &quot;area_num&quot;: &quot;1761118&quot;, &quot;isp&quot;: &quot;CUCC&quot;, &quot;prov&quot;: &quot;\u5317\u4eac&quot;, &quot;city&quot;: &quot;\u5317\u4eac&quot;, &quot;post_code&quot;: &quot;100000&quot;, &quot;area_code&quot;: &quot;010&quot;, &quot;card_prov_code&quot;: &quot;110000&quot;, &quot;card_city_code&quot;: &quot;110000&quot;, &quot;lng&quot;: &quot;116.405285&quot;, &quot;lat&quot;: &quot;39.904989&quot;, &quot;city_code&quot;: &quot;beijing&quot;, &quot;city_short_code&quot;: &quot;bj&quot; } }, &quot;qt&quot;: 0.055 }" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="TURKISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1620037888767" />
+  </component>
   <component name="Settings">
-    <option name="ignoreRegExp" value="" />
-    <option name="translator" value="ai.youdao" />
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
-        <option name="appId" value="7ac9bf6ed56893ca" />
-        <option name="appKeyConfigured" value="true" />
+        <option name="primaryLanguage" value="AUTO" />
       </youdao-translate>
     </option>
   </component>

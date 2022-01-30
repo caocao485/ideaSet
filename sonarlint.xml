@@ -1,5 +1,18 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <rules />
+    <option name="nodejsPath" value="C:\Program Files\nodejs\node.exe" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonarqube.gomezsz.com.cn/" />
+          <token>dfcedf99df9bdf9adf9cdf9cdf9fdf9bdfccdf93df9ddf99df9cdf9adfcbdf9fdfcfdf93df92df92df98df9ddfcbdfc8df99dfcbdf98df92df9edfcfdf9adfc8df9adf9cdfc9df9edfcfdf98df93dfc9</token>
+          <option name="name" value="test" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules>
+      <Rule active="false" key="java:S1481" />
+      <Rule active="false" key="java:S1854" />
+    </rules>
   </component>
 </application>

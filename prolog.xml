@@ -1,0 +1,5 @@
+<application>
+  <component name="PrologStatePersistence">
+    <option name="toolchain" value="C:\swipl\bin" />
+  </component>
+</application>
