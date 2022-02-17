@@ -13,6 +13,8 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl alt numpad2" />
   </action>
+  <action id="LC.Playground.Find" />
+  <action id="LC.TW.Find" />
   <action id="SequencePlugin.ShowSequenceDiagram">
     <keyboard-shortcut first-keystroke="shift ctrl alt f4" />
   </action>
