@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="red" type="AUTO_DETECTED" />
+      <mapping pattern="IgnoreUrlsConfig.java" type="AUTO_DETECTED" />
       <mapping pattern="sieve" type="AUTO_DETECTED" />
       <mapping pattern="bigfib" type="AUTO_DETECTED" />
       <mapping pattern="EditCountDictReqDTO" type="AUTO_DETECTED" />
