@@ -150,6 +150,10 @@
           <option name="url" value="https://gitee.com/miko201728/bilibili-go-code.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/coco-liao/mini_spider" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\learning" />
