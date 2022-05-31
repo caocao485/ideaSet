@@ -158,6 +158,10 @@
           <option name="url" value="https://git.gomezsz.com.cn/gzsz-common/gzsz-common-api-feign" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/caocao485_admin/frostmourne" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\learning" />
